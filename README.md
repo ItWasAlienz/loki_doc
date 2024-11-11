@@ -8,4 +8,4 @@
 ![](https://github.com/ItWasAlienz/loki_doc/blob/main/LokiGrid2.png?raw=true)
 ![](https://github.com/ItWasAlienz/loki_doc/blob/main/LokiGrid3.png?raw=true)
 ![](https://github.com/ItWasAlienz/loki_doc/blob/main/LokiMIDI1.png?raw=true)
-![](https://github.com/ItWasAlienz/loki_doc/blob/main/LokiMIDI2.png?raw=true)
+![](https://github.com/ItWasAlienz/loki_doc/blob/main/LokiMIDI_2.png?raw=true)
